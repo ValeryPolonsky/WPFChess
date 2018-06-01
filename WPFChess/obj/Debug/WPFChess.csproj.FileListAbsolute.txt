@@ -1,0 +1,15 @@
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\bin\Debug\WPFChess.exe.config
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\bin\Debug\WPFChess.exe
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\bin\Debug\WPFChess.pdb
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\WPFChess.csprojAssemblyReference.cache
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\MainWindow.g.cs
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\App.g.cs
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\WPFChess_MarkupCompile.cache
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\WPFChess_MarkupCompile.lref
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\MainWindow.baml
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\WPFChess.g.resources
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\WPFChess.Properties.Resources.resources
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\WPFChess.csproj.GenerateResource.cache
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\WPFChess.csproj.CoreCompileInputs.cache
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\WPFChess.exe
+D:\Programming\My Tarining\C#\WPF\WPFChess\WPFChess\obj\Debug\WPFChess.pdb
